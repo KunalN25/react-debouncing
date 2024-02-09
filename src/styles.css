@@ -1,0 +1,13 @@
+input {
+    padding: .5rem;
+    width: 20%;
+}
+
+
+.results-container {
+    background-color: aliceblue;
+    border: solid black 1px;
+    border-top: none;
+    width: 20%;
+    padding: .5em;
+}
